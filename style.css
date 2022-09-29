@@ -35,6 +35,7 @@ html{
 .valor{
     height: 3rem;
     width: 3rem;
+    display: none;
 }
 #operador{
     width: 2rem;
